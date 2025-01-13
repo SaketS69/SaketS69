@@ -1,5 +1,3 @@
-Here’s a professional GitHub README template you can use for your profile:  
-
 ---
 
 # 👋 Hi, I’m Saket Suman  
